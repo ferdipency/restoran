@@ -1,5 +1,7 @@
 Makanan
   * Ayam Bakar
+   - Pedas
+   - Madu
   * Soto Ayam
 
 Minuman
