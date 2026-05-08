@@ -1,0 +1,8 @@
+Rencana Menu : 
+
+Makanan
+  * Ikan bakar
+  * Pisang Goreng
+
+Minuman 
+  * Soda susu
