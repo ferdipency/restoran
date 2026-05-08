@@ -1,0 +1,7 @@
+Makanan
+  * Ayam Bakar
+  * Soto Ayam
+
+Minuman
+  * Jus Buah
+  * Es Teh
