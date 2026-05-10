@@ -3,6 +3,7 @@ Rencana Menu :
 Makanan
   * Ikan bakar
   * Pisang Goreng
+  * Baso Kuah
 
 Minuman 
   * Soda susu
