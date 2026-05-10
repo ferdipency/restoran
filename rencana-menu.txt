@@ -1,6 +1,7 @@
 Rencana Menu : 
 
 Makanan
+  * Soto
   * Ikan bakar
   * Ayam Peyet
   * Pisang Goreng
