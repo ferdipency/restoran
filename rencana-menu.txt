@@ -2,9 +2,12 @@ Rencana Menu :
 
 Makanan
   * Soto
+  * Ikan bakar
+  * Ayam Peyet
   * Pisang Goreng
   * Baso Kuah
-   - Cumi
+   - Ikan
+   - Ayam
 
 Minuman 
   * Soda susu
