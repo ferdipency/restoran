@@ -4,6 +4,8 @@ Makanan
   * Ikan bakar
   * Pisang Goreng
   * Baso Kuah
+   - Ikan
+   - Ayam
 
 Minuman 
   * Soda susu
