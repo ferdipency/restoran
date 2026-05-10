@@ -1,9 +1,10 @@
 Rencana Menu : 
 
 Makanan
-  * Ikan bakar
+  * Soto
   * Pisang Goreng
   * Baso Kuah
+   - Cumi
 
 Minuman 
   * Soda susu
